@@ -1,7 +1,8 @@
 
-### InvoiceExtractor_NLP
+# InvoiceExtractor_NLP
 
-![Invoice Extraction](https://github.com/user-attachments/assets/b0cb8b44-5041-4ef9-bba4-15ee7ab72eb7)
+![Invoice Extraction Process](https://github.com/user-attachments/assets/264aee95-0f9f-4f64-9b16-88ae990653cf)
+
 
 ## Overview
 
@@ -14,7 +15,7 @@
 - **NLP-Powered**: Uses state-of-the-art NLP algorithms to understand and process invoice content.
 - **User-Friendly**: Simple and intuitive interface for easy operation.
 
-![Invoice Extraction Process](https://github.com/user-attachments/assets/264aee95-0f9f-4f64-9b16-88ae990653cf)
+![Invoice Extraction Results](https://github.com/user-attachments/assets/bfe34591-ffc3-44c6-af68-582d27d11d6f)
 
 
 ## Installation
@@ -52,7 +53,7 @@ To use the InvoiceExtractor_NLP tool, follow these steps:
 3. **View the Results**:
     The extracted data will be saved in an Excel file in the `invoices_excel` directory. Open the file to view the structured invoice data.
 
-![Invoice Extraction Results](https://github.com/user-attachments/assets/bfe34591-ffc3-44c6-af68-582d27d11d6f)
+![Invoice Extraction](https://github.com/user-attachments/assets/b0cb8b44-5041-4ef9-bba4-15ee7ab72eb7)
 
 
 ## How It Works
